@@ -9,7 +9,7 @@ Excel lekce 2.
         3. Uprava query - sekce sloupcu a radku
         4. group by   19:19
         5. Pridani sloupcu
-        6. Vyrat unikati hodnoty - remove duplicates
+        6. Vyrad unikati hodnoty - remove duplicates
         7. Nahrani linku pro kraj  a nahrani query
         8. Spojeni query - Merge  19:32
         9. Napojeni na pivotky 19:36
@@ -21,3 +21,15 @@ Excel lekce 2.
         15. pidi projekt
         16.  
       
+
+Lekce 11 . 
+  1. Do konce prvni casti
+  2. Cross joiny
+  3. Inner joiny
+  4. ---- prestavka ----
+  5. Pribeh s pravniky ( vypocty cetnosti plateb dluzniku ) 
+  6. Uzavreni tabulky tak aby se menil jenom graf 19:51
+  7. Podminene fromatovani v tabulce + finta (zvyrazneni sloupce dle filtru)
+  8. ---- prestavka -----
+  9. Rozbor excelu
+
